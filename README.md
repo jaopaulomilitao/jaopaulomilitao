@@ -10,6 +10,7 @@ I'm an indie **full-stack developer** building my own **digital universe**, one 
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/jaopaulomilitao?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/jaopaulomilitao?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+<!--       <img src="https://visitor-badge.laobi.icu/badge?page_id=jaopaulomilitao.jaopaulomilitao&left_color=darkviolet&right_color=darkviolet" width="92" /> -->
    </p>
 
 #
